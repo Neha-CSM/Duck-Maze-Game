@@ -2,9 +2,6 @@
  * The Water class represents a water trap obstacle in the maze.
  * @author: Neha Sharma
  * Collaborators: Kaushiki Kapoor, Bradley Nguyen
- * Teacher Name: Mrs. Bailey
- * Period: 1
- * Due Date: 05-12-25
  */
 import java.awt.*;
 
@@ -59,4 +56,5 @@ public class Water extends Icons {
     public Rectangle getBackBounds() {
         return new Rectangle(x + 1, y + 6, 3, 13);
     }
+
 }
