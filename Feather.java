@@ -3,9 +3,6 @@
  * collected it gives the duck super strength
  * @author: Neha Sharma
  * Collaborators: Kaushiki Kapoor, Bradley Nguyen
- * Teacher Name: Mrs. Bailey
- * Period: 1
- * Due Date: 05-12-25
  */
 import java.awt.*;
 
@@ -82,4 +79,5 @@ public class Feather extends Icons {
     public Rectangle getBounds() {
         return new Rectangle(x, y, 25, 25);
     }
+
 }
