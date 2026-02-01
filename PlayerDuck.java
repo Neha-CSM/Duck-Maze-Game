@@ -3,9 +3,6 @@
  * state changes like shield activation and lightning effects.
  * @author Bradley Nguyen
  * Collaborators: Neha Sharma,Kaushiki Kapoor
- * Teacher Name: Mrs. Bailey
- * Period: 1
- * Due Date: 05-12-25
  */
 import java.awt.*;
 import java.util.ArrayList;
@@ -294,4 +291,5 @@ public class PlayerDuck {
         }
         return false;
     }
+
 }
