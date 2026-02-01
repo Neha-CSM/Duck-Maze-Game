@@ -94,3 +94,4 @@ public class Shield extends Icons {
     }
 
 }
+
