@@ -2,9 +2,6 @@
  * The ScoreManager class tracks and manages the player's score in the game.
  * @author Bradley Nguyen
  * Collaborators Kaushiki Kapoor, Neha Sharma
- * Teacher Mrs. Bailey
- * Period 1
- * DueDate 05-12-25
  */
 public class ScoreManager {
     private int score = 0;
@@ -63,4 +60,5 @@ public class ScoreManager {
         resetScore(); // reused to reset score
         startTime = System.currentTimeMillis(); // restart clock
     }
+
 }
