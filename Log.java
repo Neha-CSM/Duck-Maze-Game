@@ -2,9 +2,6 @@
  * The Log class represents a log obstacle in the maze.
  * @author: Neha Sharma
  * Collaborators: Kaushiki Kapoor, Bradley Nguyen
- * Teacher Name: Mrs. Bailey
- * Period: 1
- * Due Date: 05-12-25
  */
 import java.awt.*;
 
@@ -60,4 +57,5 @@ public class Log extends Icons {
     public Rectangle getBackBounds() {
         return new Rectangle(x, y, 5, 25);
     }
+
 }
