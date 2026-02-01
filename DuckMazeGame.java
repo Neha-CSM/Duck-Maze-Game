@@ -3,9 +3,6 @@
  * interact with power-ups and obstacles.
  * @author Kaushiki Kapoor
  * Collaborators: Neha Sharma, Bradley Nguyen
- * Teacher Name: Mrs. Bailey
- * Period: 1
- * Due Date: 05-12-25
  */
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -365,4 +362,5 @@ public class DuckMazeGame {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
     }
+
 }
