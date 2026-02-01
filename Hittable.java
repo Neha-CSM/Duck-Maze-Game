@@ -3,9 +3,6 @@
  * can be drawn, detected for collision, and removed from the game.
  * @author: Neha Sharma
  * Collaborators: Kaushiki Kapoor, Bradley Nguyen
- * Teacher Name: Mrs. Bailey
- * Period: 1
- * Due Date: 05-12-25
  */
 import java.awt.*;
 
@@ -59,4 +56,5 @@ public interface Hittable {
      * @param isJumping whether the duck is currently jumping
      */
     void handleCollision(PlayerDuck duck, ScoreManager scoreManager, boolean isJumping);
+
 }
