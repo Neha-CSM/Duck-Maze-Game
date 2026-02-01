@@ -2,9 +2,6 @@
  * The Shield class represents a shield power-up in the maze
  * @author: Neha Sharma
  * Collaborators: Kaushiki Kapoor, Bradley Nguyen
- * Teacher Name: Mrs. Bailey
- * Period: 1
- * Due Date: 05-12-25
  */
 import java.awt.*;
 
@@ -95,4 +92,5 @@ public class Shield extends Icons {
         effectActive = false;
         scoreIncremented = false;
     }
+
 }
