@@ -3,9 +3,6 @@
  * when collected, all the turtles disappear for 5 seconds
  * @author: Neha Sharma
  * Collaborators: Kaushiki Kapoor, Bradley Nguyen
- * Teacher Name: Mrs. Bailey
- * Period: 1
- * Due Date: 05-12-25
  */
 import java.awt.*;
 
@@ -118,4 +115,5 @@ public class Lightning extends Icons {
     public Rectangle getBounds() {
         return new Rectangle(x, y, 20, 20);
     }
+
 }
