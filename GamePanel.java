@@ -3,9 +3,6 @@
  * between the duck and all icons.
  * @author: Kaushiki Kapoor
  * Collaborators: Neha Sharma, Bradley Nguyen
- * Teacher Name: Mrs. Bailey
- * Period: 1
- * Due Date: 05-12-25
  */
 import javax.swing.*;
 import java.awt.*;
@@ -285,4 +282,5 @@ public class GamePanel extends JPanel implements ActionListener, KeyListener {
     public List getHittables() {
         return hittables;
     }
+
 }
